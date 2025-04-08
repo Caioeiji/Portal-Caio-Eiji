@@ -1,0 +1,34 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /*define a fonte do texto*/
+    line-height: 1.6;/*espasameto entre as linhas*/
+    color: black;/*cor do texto*/
+    max-width: 1000px;/*define a largura maxima do conteudo*/
+    margin: 0 auto;/*centraliza o conteudo na horizontal*/
+    padding: 20px;/*espaçamento interno*/
+    background-color: rgb(250, 255, 94);/*cor de fundo*/
+}
+h1 , h2 {
+    color: #26282a;/*cor de texto*/
+    text-align: center; /*centraliza o conteudo*/
+}
+.lista-topico {
+background-color: rgb(255, 255, 255);
+border-radius: 15px;/*arrendonda a borda*/
+padding: 20px;/*adiciona espaçameno interno ao bloco*/
+margin-bottom: 30px;/*adiciona margem em baixo do bloco*/
+}
+p {
+    margin-bottom: 15px;
+    padding-left: 30px;/* adiciona um espaçameto interno à esquerda*/
+}
+h3 {
+    color: ;
+}
+img {
+    width: 100%;/*largura da imagem 100%*/
+    height: 200px;/*altura da imagem*/
+    object-fit: cover;/*Ajusta a imagem para cobrir o contêiner, cortando se necessário*/
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+ 
